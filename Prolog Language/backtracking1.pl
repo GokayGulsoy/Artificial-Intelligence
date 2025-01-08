@@ -1,0 +1,12 @@
+mother(mia,liam).
+mother(mia,haley).
+mother(jessica,chris).
+father(liam,michael).
+father(josh,haley).
+father(mark,henry).
+father(mark,alicia).
+father(josh,chris).
+father(taylor,michelle).
+father(josh,mark).
+parent(A,B):-write('mother?'),nl,mother(A,B),write('mother!'),nl.
+parent(A,B):-write('father?'),nl,father(A,B),write('father!'),nl.
