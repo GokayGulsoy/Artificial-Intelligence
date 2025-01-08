@@ -16,5 +16,5 @@
 12. Reinforcement Learning
 13. Deep Neural Networks
 
-[Click this link to go to Cormen's book (Introduction to Algorithms)](Textbooks/Introduction_to_Algorithms.pdf)
+[Click this link to go to textbook Artificial Intelligence A Modern Approach 3rd Edition](Textbook/Artificial_Intelligence_A_Modern_Approach_3rd_Edition.pdf)
 
